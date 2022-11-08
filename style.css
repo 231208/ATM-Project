@@ -1,0 +1,215 @@
+.logos{
+    display: flex;
+    background-color: beige;
+    
+}
+.h{
+    font-family: 'Passions Conflict', cursive;
+    color: darkred;
+    margin-left: 15px;
+    margin-top: 2px;
+    font-size: 1.5rem;
+
+}
+.logo{
+    height: 44px;
+    width: 70px;
+}
+
+.ftag{
+    font-family: 'Passions Conflict', cursive;
+    color: black;
+    background-color: aliceblue;
+    margin-left: 249px;
+    width: 420px;
+
+}
+
+.ptag{
+    color: white;
+    font-size: 1.9rem;
+    font-weight: bold;
+}
+
+/*Slide bar coding*/
+.welcome{
+    width: 308px;
+    height: 217px;
+}
+
+
+.mylist li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Welcome Note */
+.wel{
+    font-family: "Cinzel", Helvetica, Arial, sans-serif;
+    text-align: center;
+
+}
+.sweet{
+    height: 100px;
+    margin-left: 5%;
+}
+
+.welnote{
+    font-family: "Cinzel", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+/* Booking Section */
+.mfrm{
+    border-radius: 5px;
+    margin-top: 5%;
+    margin-left: 30%;
+    align-items: center;
+    width: 500px;
+    border: 2px solid black;
+    background-color: lemonchiffon;
+}
+.sub{
+    margin-left: 45%;
+}
+
+/*about section coding*/
+.about{
+    float: left;
+    width: 50%;
+}
+
+.c .about .mynotes{
+    margin-left: 240px;
+    font-family: 'Times New Roman', serif;
+    font-size: 1.3rem;
+}
+.swim{
+    height: 369px;
+    width: 639px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.a:after
+{
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+/*Book Now btn*/
+.mybook .book_btn{
+    margin-top: 100px;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.mybook .book_btn:hover{
+    background-color: #3e8e41;
+}
+
+.mybook .book_btn:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.mybook .book_btn a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/*Galary Photos Section*/
+.container{
+    background-color: #999;
+    width: 400px;
+
+}
+
+.rooms{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 2.0rem;
+        font-weight: bold;
+}
+.rooms:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+.img1{
+    height: 300px;
+    width: 275px;
+}
+
+.img1:hover{
+    height: 302px;
+    width: 272px;
+}
+
+/*up Footer Section*/
+.myfooter{
+    background-color: black;
+    color: white;
+   border: 1px solid  black;
+   height: 277px;
+   width: 1346px;
+}
+.hea{
+    font-family: cursive;
+    color: tomato;
+}
+
+.mdiv{
+    float: left;
+    width: 30%;
+    padding: 3px;
+    margin-left: 44px;
+}
+/*google map style*/
+.mapouter{
+    position:relative;
+    text-align:right;
+    width:300px;
+    height:200px;
+}
+.gmap_canvas
+ {
+    overflow:hidden;
+    background:none!important;
+    width:300px;
+    height:200px;
+}
+.gmap_iframe
+ {
+    width:300px!important;
+    height:200px!important;
+}
+
+/*footer section coding*/
+.footer{
+    background-color: darkred;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+/*Facilities Section Coding*/
+.fpara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.3rem;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-justify: auto;
+}
+
